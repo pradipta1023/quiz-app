@@ -21,4 +21,9 @@ export const ELEMENT = {
   P: "p",
   IMG: "img",
   LEGEND: "legend",
+  FIELDSET: "fieldset",
+  INPUT: "input",
+  LABEL: "label",
+  BUTTON: "button",
+  FORM: "form",
 };
