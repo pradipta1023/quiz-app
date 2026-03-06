@@ -1,11 +1,16 @@
 # Plan
 
-## Add dependencies
+
+- [ ] Add fake fetch
+
+- [x] Add hardcoded html
+
+- [x] Add dependencies
 
 - **Hono**
 - **std/testing**
 
-## Directory structure
+- [x] Directory structure
 
 - **public**
 - **public/scripts**
